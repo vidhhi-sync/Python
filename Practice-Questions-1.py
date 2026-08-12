@@ -17,7 +17,7 @@ f2 = float(input("Enter value of f2:"))
 Avg = (f1+f2)/2
 print("The average of the numbers is :", Avg)
 
-#Ques 3 - Write a program to input 2 integer numbers a and b. Print True if a is greater than or equal to b, if not print False
+#Ques 4 - Write a program to input 2 integer numbers a and b. Print True if a is greater than or equal to b, if not print False
 A = int(input("Enter value of A:"))
 B = int(input("Enter value of B:"))
 print(A>=B)
